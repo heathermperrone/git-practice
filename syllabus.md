@@ -28,5 +28,15 @@ Location: Dark Side
 - Basement Cat hides the cookies
 - Basement Cat will taunt you with the existence of cookies
 
+#### Ceiling Cat's ArchKitties
+- tabby cat
+- ginger kitty
+- grey kitty
+
+#### Basement Cat's Demonkittiies
+- cow kitty
+- Calico
+- Tortoiseshell
+
 *this is in italics*
 **this will be bold**
