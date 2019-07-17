@@ -14,5 +14,9 @@ Location: Dark Side
 
 ### ***Come to the dark side, we have cookies***
 
+## Worship of Ceiling Cat
+
+### Ceiling Cat and his archenemy Basement Cat
+
 *this is in italics*
 **this will be bold**
