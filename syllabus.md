@@ -16,7 +16,17 @@ Location: Dark Side
 
 ## Worship of Ceiling Cat
 
-### Ceiling Cat and his archenemy Basement Cat
+### Ceiling Cat
+
+- Ceiling Cat watches over you  
+- Ceiling Cat is made of good  
+- Ceiling Cat will bless you with his purr
+
+### Basement Cat (*Ceiling Cat's archenemy*)
+
+- Basement Cat is all that is darkness
+- Basement Cat hides the cookies
+- Basement Cat will taunt you with the existence of cookies
 
 *this is in italics*
 **this will be bold**
